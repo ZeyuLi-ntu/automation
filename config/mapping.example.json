@@ -1,0 +1,7 @@
+{
+  "template_sha256": "从template-candidates.json复制；模板改变后必须重新核对",
+  "entries": [
+    {"group_id": "RHB/rhb-sgd-promo/SGD/promo/6/M", "row": 62, "expected_bank_label": "RHB", "confirmed": false},
+    {"group_id": "RHB/new-product/SGD/promo/6/M", "insert_before": 64, "bank_row": 62, "expected_bank_label": "CIMB", "confirmed": false}
+  ]
+}

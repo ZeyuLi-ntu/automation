@@ -1,0 +1,647 @@
+{
+  "sheet": "SGD促销",
+  "current_column": 3,
+  "template_sha256": "12118f6269bd88a54f460529dc831789de6ce42912b693f9a556d478273b6f44",
+  "candidates": [
+    {
+      "bank_label": "SCB",
+      "display_tenor": "1M",
+      "row": 5,
+      "condition": ">200K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BEA",
+      "display_tenor": "1M",
+      "row": 7,
+      "condition": "3.00%fresh fund",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HSBC",
+      "display_tenor": "1M",
+      "row": 8,
+      "condition": "0.60% personal (counter)\n0.65% premier w/o wealth products (counter)\n0.9% premier w wealth holdings or FX Engaged (Mobile App only+$30K fresh funds)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "ICBC",
+      "display_tenor": "1M",
+      "row": 9,
+      "condition": "1.05%（Counter）>20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "1M",
+      "row": 12,
+      "condition": "1.15% (counter)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SingFinance",
+      "display_tenor": "1M",
+      "row": 14,
+      "condition": "1.50%(Father's Day)-10K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "1M",
+      "row": 17,
+      "condition": "1.48%(counter $10k)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CIMB",
+      "display_tenor": "3M",
+      "row": 21,
+      "condition": "1.35% 手机银行 （Personal）$10k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "3M",
+      "row": 23,
+      "condition": "1.20%  - s$5,000 to S$20,000(4M)\n1.25%  - s$20,000&above(4M)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CITI",
+      "display_tenor": "3M",
+      "row": 27,
+      "condition": "1.40% (New Funds) $5k-$5Mil\n(Citigold or Citigold Private)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "RHB",
+      "display_tenor": "3M",
+      "row": 28,
+      "condition": "1.30% (personal）20k (branch and online)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "ICBC",
+      "display_tenor": "3M",
+      "row": 30,
+      "condition": "1.25%（Counter）>20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BEA",
+      "display_tenor": "3M",
+      "row": 33,
+      "condition": "1.35% fresh fund",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "DBS",
+      "display_tenor": "3M",
+      "row": 34,
+      "condition": "1.5% (Counter) $10k-$50Mil",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HSBC",
+      "display_tenor": "3M",
+      "row": 35,
+      "condition": "1.05% personal (counter)\n1.6% premier w/o wealth products (counter)\n1.6% premier w wealth holdings or FX Engaged (Mobile App only+$30K fresh funds)\n1.6% premier elite",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "3M",
+      "row": 36,
+      "condition": "1.15% (counter)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SingFinance",
+      "display_tenor": "3M",
+      "row": 38,
+      "condition": "1.50%(Father's Day)-10K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "OCBC",
+      "display_tenor": "3M",
+      "row": 41,
+      "condition": "1.60%（fresh fund 50k-5mil）88 days",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "3M",
+      "row": 43,
+      "condition": "1.55% (Counter) (fresh funds $10K-$100K)  (4M)\n1.60% (Counter) (fresh funds >$100K)  (4M)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "TRUST",
+      "display_tenor": "3M",
+      "row": 44,
+      "condition": "1.8% (S$25K-100K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "MARI",
+      "display_tenor": "3M",
+      "row": 46,
+      "condition": "1.68% (S$100) 4M",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLB",
+      "display_tenor": "3M",
+      "row": 47,
+      "condition": "1.4%(Online S$10K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SCB",
+      "display_tenor": "6M",
+      "row": 51,
+      "condition": "1.7% (personal banking) $25k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BEA",
+      "display_tenor": "6M",
+      "row": 54,
+      "condition": "1.6% fresh fund ($100k-$5mil)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SBI",
+      "display_tenor": "6M",
+      "row": 55,
+      "condition": "1.50%（50k-200k）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "ICBC",
+      "display_tenor": "6M",
+      "row": 57,
+      "condition": "1.55%（Counter）>20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "6M",
+      "row": 60,
+      "condition": "1.70%（$500手机银行）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "RHB",
+      "display_tenor": "6M",
+      "row": 62,
+      "condition": "1.7% (personal）20k (online)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CIMB",
+      "display_tenor": "6M",
+      "row": 64,
+      "condition": "1.65% 手机银行 （Personal）$10k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "UOB",
+      "display_tenor": "6M",
+      "row": 67,
+      "condition": "1.50%>10k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SingFinance",
+      "display_tenor": "6M",
+      "row": 68,
+      "condition": "1.55%(National Day) $61K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maybank",
+      "display_tenor": "6M",
+      "row": 71,
+      "condition": "1.55% (branch only) 20k\n1.45% (branch and online) 20K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "6M",
+      "row": 72,
+      "condition": "2% (7M) - s$5,000 TO s$20,000",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HSBC",
+      "display_tenor": "6M",
+      "row": 81,
+      "condition": "0.85% personal (counter)\n1.8% premier w/o wealth products (counter)\n1.8% premier w wealth products (counter)\n2% premier elite",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CITI",
+      "display_tenor": "6M",
+      "row": 83,
+      "condition": "2.00% (New Funds) $5k-$5Mil\n(Citigold or Citigold Private)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "OCBC",
+      "display_tenor": "6M",
+      "row": 86,
+      "condition": "1.60%（fresh fund 50k-5mil）188 days                               (day 1 - 88: 1.6%; day 89 - 188: 1.7%)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLB",
+      "display_tenor": "6M",
+      "row": 90,
+      "condition": "1.7%(Online S$10K)\n1.7%(branch S$100K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "POSB",
+      "display_tenor": "6M",
+      "row": 91,
+      "condition": "1.5% (>$10K) (CASA Gating)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "MARI",
+      "display_tenor": "6M",
+      "row": 92,
+      "condition": "1.68% (S$100)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Singapura Finance",
+      "display_tenor": "6M",
+      "row": 93,
+      "condition": "1.65%(Counter & Online S$20k)                                                                        \n1.58%(Online S$50k)(6&7M)                                             1.61%(Online S$61k)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "ICBC",
+      "display_tenor": "9M",
+      "row": 97,
+      "condition": "1.4%（Counter）>20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "9M",
+      "row": 100,
+      "condition": "1.55%（$500手机银行）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CIMB",
+      "display_tenor": "9M",
+      "row": 102,
+      "condition": "1.70% 手机银行（Personal）$10k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "9M",
+      "row": 104,
+      "condition": "1.45% - s$20,000&above",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLB",
+      "display_tenor": "9M",
+      "row": 108,
+      "condition": "1.6%(Online S$10K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maybank",
+      "display_tenor": "9M",
+      "row": 109,
+      "condition": "1.45% online 20k (branch and online)\nE.I.R 1.32%                                                                                       1.4% (branch only) 20k\n1.30% (branch and online) 20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "UOB",
+      "display_tenor": "9M",
+      "row": 110,
+      "condition": "1.55%(10M) >$10k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SCB",
+      "display_tenor": "9M",
+      "row": 111,
+      "condition": "1.30% (personal banking)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "OCBC",
+      "display_tenor": "9M",
+      "row": 114,
+      "condition": "1.15%电子银行",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HSBC",
+      "display_tenor": "9M",
+      "row": 116,
+      "condition": "0.9% personal (counter)\n0.95% premier w/o wealth products (counter)\n1.25% premier w wealth products (counter)\n1.3% premier elite",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Singapura Finance",
+      "display_tenor": "9M",
+      "row": 117,
+      "condition": "1.68%(Counter&online S$20K) 8-month\n1.45%(Online S$50K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maribank",
+      "display_tenor": "9M",
+      "row": 118,
+      "condition": "1.88% (S$100) 10M",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLB",
+      "display_tenor": "12M",
+      "row": 122,
+      "condition": "1.8%(Online S$10K)\n1.8%(branch S$100K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "RHB",
+      "display_tenor": "12M",
+      "row": 123,
+      "condition": "1.80% (personal）20k (online)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CIMB",
+      "display_tenor": "12M",
+      "row": 125,
+      "condition": "1.70% 手机银行（Personal）$10k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maybank",
+      "display_tenor": "12M",
+      "row": 127,
+      "condition": "1.85%  (branch and online) $20K\nE.I.R. 1.69%                                                                                        1.55% (branch only) 20k\n1.45% (branch and online) $20K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SBI",
+      "display_tenor": "12M",
+      "row": 129,
+      "condition": "1.40%（50k-200k）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "12M",
+      "row": 131,
+      "condition": "1.70%（$500手机银行）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "ICBC",
+      "display_tenor": "12M",
+      "row": 133,
+      "condition": "1.4%（Counter）>20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SingFinance",
+      "display_tenor": "12M",
+      "row": 136,
+      "condition": "1.55%(National Day) $61K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BEA",
+      "display_tenor": "12M",
+      "row": 140,
+      "condition": "1.65% fresh fund ($100k-$5mil)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "12M",
+      "row": 141,
+      "condition": "1.50% - s$20,000&above",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HSBC",
+      "display_tenor": "12M",
+      "row": 144,
+      "condition": "0.95% personal (counter)\n1% premier w/o wealth products (counter)\n1.3% premier w wealth products (counter)\n1.35% premier elite",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "CITI",
+      "display_tenor": "12M",
+      "row": 145,
+      "condition": "1.20% (Citigold Client)\n1.30% (Citigold Private Client)\n1.35% (Citigold Private Client and Citigold 新客户)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "OCBC",
+      "display_tenor": "12M",
+      "row": 146,
+      "condition": "1.45% (Branch) 20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maribank",
+      "display_tenor": "12M",
+      "row": 149,
+      "condition": "1.88% (S$100)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Singapura Finance",
+      "display_tenor": "12M",
+      "row": 150,
+      "condition": "1.70%(Counter S$20K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLF",
+      "display_tenor": "15M",
+      "row": 154,
+      "condition": "0.90% - S$5,000 to s$20,000",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maybank",
+      "display_tenor": "15M",
+      "row": 156,
+      "condition": "-",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "18M",
+      "row": 161,
+      "condition": "1.40%（$500手机银行）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maybank",
+      "display_tenor": "18M",
+      "row": 163,
+      "condition": "2.3E-2",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "RHB",
+      "display_tenor": "18M",
+      "row": 165,
+      "condition": "-",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLB",
+      "display_tenor": "18M",
+      "row": 167,
+      "condition": "1.88%(Online S$10K)\n1.88%(branch S$100K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "OCBC",
+      "display_tenor": "18M",
+      "row": 168,
+      "condition": "1.35% (Branch) 20k",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SingFinance",
+      "display_tenor": "18M",
+      "row": 170,
+      "condition": "1.55%(National Day) $61K",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Singapura Finance",
+      "display_tenor": "18M",
+      "row": 173,
+      "condition": "1.60%(Counter S$20K)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "BOC",
+      "display_tenor": "24M",
+      "row": 177,
+      "condition": "1.40%（$500手机银行）",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "Maybank",
+      "display_tenor": "24M",
+      "row": 179,
+      "condition": "2.3E-2",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "SingFinance",
+      "display_tenor": "24M",
+      "row": 181,
+      "condition": "1.5%(NewFund 10k)",
+      "product_id": "",
+      "confirmed": false
+    },
+    {
+      "bank_label": "HLB",
+      "display_tenor": "24M",
+      "row": 183,
+      "condition": "2%(Online S$10K)\n2%(branch S$100K)",
+      "product_id": "",
+      "confirmed": false
+    }
+  ]
+}

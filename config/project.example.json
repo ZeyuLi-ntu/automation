@@ -1,0 +1,24 @@
+{
+  "models": {
+    "provider": "ollama",
+    "base_url": "http://127.0.0.1:11434",
+    "text_model": "qwen3.5:4b",
+    "vision_model": "qwen3.5:4b",
+    "num_ctx": 16384,
+    "num_predict": 4096,
+    "max_text_chars": 6000,
+    "max_images": 2,
+    "image_token_estimate": 2048,
+    "timeout_seconds": 600,
+    "think": false
+  },
+  "sources": "sources.json",
+  "expected_banks": [],
+  "products": [],
+  "tenor_map": {},
+  "template_bank_aliases": {"CITI": "Citibank", "HLB": "HL Bank", "MARI": "Maribank", "DBS/POSB": "DBS"},
+  "max_text_chars": 180000,
+  "max_images": 40,
+  "max_tiles": 30,
+  "max_pdf_pages": 30
+}

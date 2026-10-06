@@ -1,0 +1,3710 @@
+{
+  "version": 2,
+  "source_workbook": "D:\\automation\\20260916市场利率调研.xlsx",
+  "sources": [
+    {
+      "bank": "BEA",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC",
+      "cell": "D2",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC",
+      "hyperlink_target": "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC",
+      "status": "registered"
+    },
+    {
+      "bank": "BEA",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+      "cell": "D3",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+      "hyperlink_target": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+      "status": "registered"
+    },
+    {
+      "bank": "BEA",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.hkbea.com.sg/html/en/index.html",
+      "cell": "D4",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hkbea.com.sg/html/en/index.html",
+      "hyperlink_target": "https://www.hkbea.com.sg/html/en/index.html",
+      "status": "registered"
+    },
+    {
+      "bank": "BEA",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.hkbea.com.sg/html/en/beasg-rates-sgd-fixed-deposit-rates.html",
+      "cell": "D5",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hkbea.com.sg/html/en/beasg-rates-sgd-fixed-deposit-rates.html",
+      "hyperlink_target": "https://www.hkbea.com.sg/html/en/beasg-rates-sgd-fixed-deposit-rates.html",
+      "status": "registered"
+    },
+    {
+      "bank": "BOC",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+      "cell": "D7",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+      "hyperlink_target": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+      "status": "registered"
+    },
+    {
+      "bank": "BOC",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+      "cell": "D8",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+      "hyperlink_target": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+      "status": "registered"
+    },
+    {
+      "bank": "BOC",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+      "cell": "D9",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+      "hyperlink_target": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+      "status": "registered"
+    },
+    {
+      "bank": "BOC",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+      "cell": "D10",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+      "hyperlink_target": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+      "status": "registered"
+    },
+    {
+      "bank": "CIMB",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+      "cell": "D12",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+      "hyperlink_target": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+      "status": "registered"
+    },
+    {
+      "bank": "CIMB",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://www.cimb.com.sg/en/personal/banking-with-us/accounts/fixed-deposit/cimb-foreign-currency-fixed-deposit-account.html",
+      "cell": "D13",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.cimb.com.sg/en/personal/banking-with-us/accounts/fixed-deposit/cimb-foreign-currency-fixed-deposit-account.html",
+      "hyperlink_target": "https://www.cimb.com.sg/en/personal/banking-with-us/accounts/fixed-deposit/cimb-foreign-currency-fixed-deposit-account.html",
+      "status": "registered"
+    },
+    {
+      "bank": "CITI",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://www.citibank.com.sg/static/all-promo#tabs-cf92219dfc-item-6a8eaa1eca-tab",
+      "cell": "D16",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.citibank.com.sg/static/all-promo#tabs-cf92219dfc-item-6a8eaa1eca-tab",
+      "hyperlink_target": "https://www.citibank.com.sg/static/all-promo",
+      "status": "registered"
+    },
+    {
+      "bank": "CITI",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account",
+      "cell": "D17",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account",
+      "hyperlink_target": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account",
+      "status": "registered"
+    },
+    {
+      "bank": "CITI",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account#tabs-5847e28654-item-eac3d14f73-tab",
+      "cell": "D18",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account#tabs-5847e28654-item-eac3d14f73-tab",
+      "hyperlink_target": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account",
+      "status": "registered"
+    },
+    {
+      "bank": "DBS",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D20",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "morning refresh",
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "DBS",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+      "cell": "D21",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+      "hyperlink_target": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+      "status": "registered"
+    },
+    {
+      "bank": "DBS",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D22",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "DBS",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.dbs.com.sg/personal/rates-online/fixed-deposit-rate-singapore-dollar.page",
+      "cell": "D23",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.dbs.com.sg/personal/rates-online/fixed-deposit-rate-singapore-dollar.page",
+      "hyperlink_target": "https://www.dbs.com.sg/personal/rates-online/fixed-deposit-rate-singapore-dollar.page",
+      "status": "registered"
+    },
+    {
+      "bank": "HLB",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D25",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "HLB",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+      "cell": "D26",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+      "hyperlink_target": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+      "status": "registered"
+    },
+    {
+      "bank": "HLB",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.hlbank.com.sg/en/personal-banking/promotions/fixed-deposit-promotion-2026.html",
+      "cell": "D27",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hlbank.com.sg/en/personal-banking/promotions/fixed-deposit-promotion-2026.html",
+      "hyperlink_target": "https://www.hlbank.com.sg/en/personal-banking/promotions/fixed-deposit-promotion-2026.html",
+      "status": "registered"
+    },
+    {
+      "bank": "HLB",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.hlbank.com.sg/en/personal-banking/help-support/fixed-deposit-rate.html",
+      "cell": "D28",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hlbank.com.sg/en/personal-banking/help-support/fixed-deposit-rate.html",
+      "hyperlink_target": "https://www.hlbank.com.sg/en/personal-banking/help-support/fixed-deposit-rate.html",
+      "status": "registered"
+    },
+    {
+      "bank": "HLF",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D30",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "HLF",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": null,
+      "cell": "D31",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "HLF",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.hlf.com.sg/personal/promotions/fixed-deposits-promotion-singapore.php",
+      "cell": "D32",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hlf.com.sg/personal/promotions/fixed-deposits-promotion-singapore.php",
+      "hyperlink_target": "https://www.hlf.com.sg/personal/promotions/fixed-deposits-promotion-singapore.php",
+      "status": "registered"
+    },
+    {
+      "bank": "HLF",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.hlf.com.sg/personal/deposits/fixed-deposits-singapore.php",
+      "cell": "D33",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hlf.com.sg/personal/deposits/fixed-deposits-singapore.php",
+      "hyperlink_target": "https://www.hlf.com.sg/personal/deposits/fixed-deposits-singapore.php",
+      "status": "registered"
+    },
+    {
+      "bank": "HSBC",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://www.hsbc.com.sg/accounts/products/foreign-currency-time-deposit/",
+      "cell": "D35",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hsbc.com.sg/accounts/products/foreign-currency-time-deposit/",
+      "hyperlink_target": "https://www.hsbc.com.sg/accounts/products/foreign-currency-time-deposit/",
+      "status": "registered"
+    },
+    {
+      "bank": "HSBC",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+      "cell": "D36",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+      "hyperlink_target": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+      "status": "registered"
+    },
+    {
+      "bank": "HSBC",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.hsbc.com.sg/accounts/products/time-deposit/?promo=PSR1502649&cid=SGH:JC:P1:HP:01:2001:1502649:Acq_HP_PSR_Google&hidden_type=PSR1502649&gad_source=1&gad_campaignid=22078423845&gbraid=0AAAAADxLzrUn_-ljIVd7oUPe4ykK4xkLM&gclid=CjwKCAjw87XBBhBIEiwAxP3_A4c0tmLW3KLhl3LWPKwx_DleT8rvngBgT846jXEhpf1QRYxvbH7bSBoC2BIQAvD_BwE&gclsrc=aw.ds",
+      "cell": "D37",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hsbc.com.sg/accounts/products/time-deposit/?promo=PSR1502649&cid=SGH:JC:P1:HP:01:2001:1502649:Acq_HP_PSR_Google&hidden_type=PSR1502649&gad_source=1&gad_campaignid=22078423845&gbraid=0AAAAADxLzrUn_-ljIVd7oUPe4ykK4xkLM&gclid=CjwKCAjw87XBBhBIEiwAxP3_A4c0tmLW3KLhl3LWPKwx_DleT8rvngBgT846jXEhpf1QRYxvbH7bSBoC2BIQAvD_BwE&gclsrc=aw.ds",
+      "hyperlink_target": "https://www.hsbc.com.sg/accounts/products/time-deposit/?promo=PSR1502649&cid=SGH:JC:P1:HP:01:2001:1502649:Acq_HP_PSR_Google&hidden_type=PSR1502649&gad_source=1&gad_campaignid=22078423845&gbraid=0AAAAADxLzrUn_-ljIVd7oUPe4ykK4xkLM&gclid=CjwKCAjw87XBBhBIEiwAxP3_A4c0tmLW3KLhl3LWPKwx_DleT8rvngBgT846jXEhpf1QRYxvbH7bSBoC2BIQAvD_BwE&gclsrc=aw.ds",
+      "status": "registered"
+    },
+    {
+      "bank": "HSBC",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.hsbc.com.sg/rates/singapore-dollar-deposits/",
+      "cell": "D38",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.hsbc.com.sg/rates/singapore-dollar-deposits/",
+      "hyperlink_target": "https://www.hsbc.com.sg/rates/singapore-dollar-deposits/",
+      "status": "registered"
+    },
+    {
+      "bank": "ICBC",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D40",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "ICBC",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "cell": "D41",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "hyperlink_target": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "status": "registered"
+    },
+    {
+      "bank": "ICBC",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "cell": "D42",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "hyperlink_target": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "status": "registered"
+    },
+    {
+      "bank": "ICBC",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "cell": "D43",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "hyperlink_target": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+      "status": "registered"
+    },
+    {
+      "bank": "Maybank",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D45",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "Maybank",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+      "cell": "D46",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+      "hyperlink_target": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+      "status": "registered"
+    },
+    {
+      "bank": "Maybank",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.maybank2u.com.sg/en/promotions/deposits/sgd-time-deposit.page",
+      "cell": "D47",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.maybank2u.com.sg/en/promotions/deposits/sgd-time-deposit.page",
+      "hyperlink_target": "https://www.maybank2u.com.sg/en/promotions/deposits/sgd-time-deposit.page",
+      "status": "registered"
+    },
+    {
+      "bank": "Maybank",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+      "cell": "D48",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+      "hyperlink_target": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+      "status": "registered"
+    },
+    {
+      "bank": "OCBC",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D50",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "OCBC",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+      "cell": "D51",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+      "hyperlink_target": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+      "status": "registered"
+    },
+    {
+      "bank": "OCBC",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-account",
+      "cell": "D52",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-account",
+      "hyperlink_target": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-account",
+      "status": "registered"
+    },
+    {
+      "bank": "OCBC",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-sgd-interest-rates.page",
+      "cell": "D53",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-sgd-interest-rates.page",
+      "hyperlink_target": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-sgd-interest-rates.page",
+      "status": "registered"
+    },
+    {
+      "bank": "RHB",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://rhbgroup.com.sg/rhb/personal/promotions/foreign-currency-fixed-deposit-campaign",
+      "cell": "D55",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://rhbgroup.com.sg/rhb/personal/promotions/foreign-currency-fixed-deposit-campaign",
+      "hyperlink_target": "https://rhbgroup.com.sg/rhb/personal/promotions/foreign-currency-fixed-deposit-campaign",
+      "status": "registered"
+    },
+    {
+      "bank": "RHB",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+      "cell": "D56",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+      "hyperlink_target": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+      "status": "registered"
+    },
+    {
+      "bank": "RHB",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://rhbgroup.com.sg/rhb/personal/promotions/fixed-deposit-campaign?saf_src=google_g&saf_pt=&saf_kw=rhb%20fixed%20deposit&saf_dv=&saf_cam=17369742603&saf_grp=150249554560&saf_ad=737867878761&account_id=9328448803&saf_acc=9328448803&saf_cam_tp=search&gad_source=1&gad_campaignid=17369742603&gbraid=0AAAAAoZjJiJ7QoZr6x8Ha9s86bCeUy4y1&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rgqyTxIQXJiUTOkcTjnR_mCbv7LwJersNuDtDYv1AQ6oLOzcW4h7LxoCkawQAvD_BwE",
+      "cell": "D57",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://rhbgroup.com.sg/rhb/personal/promotions/fixed-deposit-campaign?saf_src=google_g&saf_pt=&saf_kw=rhb%20fixed%20deposit&saf_dv=&saf_cam=17369742603&saf_grp=150249554560&saf_ad=737867878761&account_id=9328448803&saf_acc=9328448803&saf_cam_tp=search&gad_source=1&gad_campaignid=17369742603&gbraid=0AAAAAoZjJiJ7QoZr6x8Ha9s86bCeUy4y1&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rgqyTxIQXJiUTOkcTjnR_mCbv7LwJersNuDtDYv1AQ6oLOzcW4h7LxoCkawQAvD_BwE",
+      "hyperlink_target": "https://rhbgroup.com.sg/rhb/personal/promotions/fixed-deposit-campaign?saf_src=google_g&saf_pt=&saf_kw=rhb%20fixed%20deposit&saf_dv=&saf_cam=17369742603&saf_grp=150249554560&saf_ad=737867878761&account_id=9328448803&saf_acc=9328448803&saf_cam_tp=search&gad_source=1&gad_campaignid=17369742603&gbraid=0AAAAAoZjJiJ7QoZr6x8Ha9s86bCeUy4y1&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rgqyTxIQXJiUTOkcTjnR_mCbv7LwJersNuDtDYv1AQ6oLOzcW4h7LxoCkawQAvD_BwE",
+      "status": "registered"
+    },
+    {
+      "bank": "RHB",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": null,
+      "cell": "D58",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "SingFinance",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D60",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "SingFinance",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": null,
+      "cell": "D61",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "SingFinance",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.singfinance.com.sg/fixed-deposit-fd-online/",
+      "cell": "D62",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.singfinance.com.sg/fixed-deposit-fd-online/",
+      "hyperlink_target": "https://www.singfinance.com.sg/fixed-deposit-fd-online/",
+      "status": "registered"
+    },
+    {
+      "bank": "SingFinance",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.singfinance.com.sg/rates/",
+      "cell": "D63",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.singfinance.com.sg/rates/",
+      "hyperlink_target": "https://www.singfinance.com.sg/rates/",
+      "status": "registered"
+    },
+    {
+      "bank": "SCB",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://www.sc.com/sg/save/time-deposits/foreign-currency-time-deposits/?subChanCode=IB04&cid=sem-GOOGLE-58700007908333096-p71886082989-71700000097118771-na-sg-en&gad_source=1&gad_campaignid=17628603791&gbraid=0AAAAACdMniazu-yuLHnNtFm6HBkWu0UPb&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5I0ywfaj-N9y-iL8PJ57FBNDmtjYjzmT9cmER4QyxkQBJHvokt6oNxoC_JQQAvD_BwE&gclsrc=aw.ds",
+      "cell": "D65",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.sc.com/sg/save/time-deposits/foreign-currency-time-deposits/?subChanCode=IB04&cid=sem-GOOGLE-58700007908333096-p71886082989-71700000097118771-na-sg-en&gad_source=1&gad_campaignid=17628603791&gbraid=0AAAAACdMniazu-yuLHnNtFm6HBkWu0UPb&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5I0ywfaj-N9y-iL8PJ57FBNDmtjYjzmT9cmER4QyxkQBJHvokt6oNxoC_JQQAvD_BwE&gclsrc=aw.ds",
+      "hyperlink_target": "https://www.sc.com/sg/save/time-deposits/foreign-currency-time-deposits/?subChanCode=IB04&cid=sem-GOOGLE-58700007908333096-p71886082989-71700000097118771-na-sg-en&gad_source=1&gad_campaignid=17628603791&gbraid=0AAAAACdMniazu-yuLHnNtFm6HBkWu0UPb&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5I0ywfaj-N9y-iL8PJ57FBNDmtjYjzmT9cmER4QyxkQBJHvokt6oNxoC_JQQAvD_BwE&gclsrc=aw.ds",
+      "status": "registered"
+    },
+    {
+      "bank": "SCB",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+      "cell": "D66",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+      "hyperlink_target": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+      "status": "registered"
+    },
+    {
+      "bank": "SCB",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.sc.com/sg/save/time-deposits/singapore-dollar-time-deposit/?subChanCode=IB04&cid=sem-GOOGLE-58700007909227731-p76519190772-71700000097343073-na-sg-en&gad_source=1&gad_campaignid=17628603788&gbraid=0AAAAACdMniajDMZDF91aN96qXKvec8dLQ&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnjNTbslC-5bQROZgneNgErwV4dKP41ONASFNZY44l3df8VoeGdJcBoCu3AQAvD_BwE&gclsrc=aw.ds",
+      "cell": "D67",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.sc.com/sg/save/time-deposits/singapore-dollar-time-deposit/?subChanCode=IB04&cid=sem-GOOGLE-58700007909227731-p76519190772-71700000097343073-na-sg-en&gad_source=1&gad_campaignid=17628603788&gbraid=0AAAAACdMniajDMZDF91aN96qXKvec8dLQ&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnjNTbslC-5bQROZgneNgErwV4dKP41ONASFNZY44l3df8VoeGdJcBoCu3AQAvD_BwE&gclsrc=aw.ds",
+      "hyperlink_target": "https://www.sc.com/sg/save/time-deposits/singapore-dollar-time-deposit/?subChanCode=IB04&cid=sem-GOOGLE-58700007909227731-p76519190772-71700000097343073-na-sg-en&gad_source=1&gad_campaignid=17628603788&gbraid=0AAAAACdMniajDMZDF91aN96qXKvec8dLQ&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnjNTbslC-5bQROZgneNgErwV4dKP41ONASFNZY44l3df8VoeGdJcBoCu3AQAvD_BwE&gclsrc=aw.ds",
+      "status": "registered"
+    },
+    {
+      "bank": "SCB",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.sc.com/sg/help/faqs/sgd-time-deposit-interest-rates/",
+      "cell": "D68",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.sc.com/sg/help/faqs/sgd-time-deposit-interest-rates/",
+      "hyperlink_target": "https://www.sc.com/sg/help/faqs/sgd-time-deposit-interest-rates/",
+      "status": "registered"
+    },
+    {
+      "bank": "SBI",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": "https://sg.statebank/usd-promotions",
+      "cell": "D70",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://sg.statebank/usd-promotions",
+      "hyperlink_target": "https://sg.statebank/usd-promotions",
+      "status": "registered"
+    },
+    {
+      "bank": "SBI",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://sg.statebank/interest-rates",
+      "cell": "D71",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://sg.statebank/interest-rates",
+      "hyperlink_target": "https://sg.statebank/interest-rates",
+      "status": "registered"
+    },
+    {
+      "bank": "SBI",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://sg.statebank/sgd-promotions",
+      "cell": "D72",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://sg.statebank/sgd-promotions",
+      "hyperlink_target": "https://sg.statebank/sgd-promotions",
+      "status": "registered"
+    },
+    {
+      "bank": "SBI",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://sg.statebank/interest-rates",
+      "cell": "D73",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://sg.statebank/interest-rates",
+      "hyperlink_target": "https://sg.statebank/interest-rates",
+      "status": "registered"
+    },
+    {
+      "bank": "UOB",
+      "currency_hint": "others",
+      "rate_type": "promo",
+      "url": null,
+      "cell": "D75",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": null,
+      "hyperlink_target": null,
+      "status": "missing_link"
+    },
+    {
+      "bank": "UOB",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+      "cell": "D76",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+      "hyperlink_target": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+      "status": "registered"
+    },
+    {
+      "bank": "UOB",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.uob.com.sg/personal/save/fixed-deposits/singapore-dollar-fixed-deposit.page",
+      "cell": "D77",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.uob.com.sg/personal/save/fixed-deposits/singapore-dollar-fixed-deposit.page",
+      "hyperlink_target": "https://www.uob.com.sg/personal/save/fixed-deposits/singapore-dollar-fixed-deposit.page",
+      "status": "registered"
+    },
+    {
+      "bank": "UOB",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.uob.com.sg/personal/online-rates/singapore-dollar-time-fixed-deposit-rates.page",
+      "cell": "D78",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.uob.com.sg/personal/online-rates/singapore-dollar-time-fixed-deposit-rates.page",
+      "hyperlink_target": "https://www.uob.com.sg/personal/online-rates/singapore-dollar-time-fixed-deposit-rates.page",
+      "status": "registered"
+    },
+    {
+      "bank": "Singapura Finance",
+      "currency_hint": "SGD",
+      "rate_type": "promo",
+      "url": "https://www.singapurafinance.com.sg/promotions",
+      "cell": "D81",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.singapurafinance.com.sg/promotions",
+      "hyperlink_target": "https://www.singapurafinance.com.sg/promotions",
+      "status": "registered"
+    },
+    {
+      "bank": "Singapura Finance",
+      "currency_hint": "SGD",
+      "rate_type": "board",
+      "url": "https://www.singapurafinance.com.sg/personal/accounts/blue-sky-fixed-deposit#interest-rates",
+      "cell": "D82",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.singapurafinance.com.sg/personal/accounts/blue-sky-fixed-deposit#interest-rates",
+      "hyperlink_target": null,
+      "status": "registered"
+    },
+    {
+      "bank": "POSB",
+      "currency_hint": "others",
+      "rate_type": "board",
+      "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+      "cell": "D84",
+      "sheet": "工作表1",
+      "workbook": "D:\\automation\\利率链接.xlsx",
+      "display_value": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+      "hyperlink_target": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+      "status": "registered"
+    }
+  ],
+  "targets": [
+    {
+      "bank": "SCB",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A5",
+        "A51",
+        "A111"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D67",
+          "url": "https://www.sc.com/sg/save/time-deposits/singapore-dollar-time-deposit/?subChanCode=IB04&cid=sem-GOOGLE-58700007909227731-p76519190772-71700000097343073-na-sg-en&gad_source=1&gad_campaignid=17628603788&gbraid=0AAAAACdMniajDMZDF91aN96qXKvec8dLQ&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnjNTbslC-5bQROZgneNgErwV4dKP41ONASFNZY44l3df8VoeGdJcBoCu3AQAvD_BwE&gclsrc=aw.ds",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BEA",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A7",
+        "A33",
+        "A54",
+        "A140"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D4",
+          "url": "https://www.hkbea.com.sg/html/en/index.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A8",
+        "A35",
+        "A81",
+        "A116",
+        "A144"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D37",
+          "url": "https://www.hsbc.com.sg/accounts/products/time-deposit/?promo=PSR1502649&cid=SGH:JC:P1:HP:01:2001:1502649:Acq_HP_PSR_Google&hidden_type=PSR1502649&gad_source=1&gad_campaignid=22078423845&gbraid=0AAAAADxLzrUn_-ljIVd7oUPe4ykK4xkLM&gclid=CjwKCAjw87XBBhBIEiwAxP3_A4c0tmLW3KLhl3LWPKwx_DleT8rvngBgT846jXEhpf1QRYxvbH7bSBoC2BIQAvD_BwE&gclsrc=aw.ds",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "ICBC",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A9",
+        "A30",
+        "A57",
+        "A97",
+        "A133"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D42",
+          "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BOC",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A12",
+        "A36",
+        "A60",
+        "A100",
+        "A131",
+        "A161",
+        "A177"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D9",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "SingFinance",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A14",
+        "A38",
+        "A68",
+        "A136",
+        "A170",
+        "A181"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D62",
+          "url": "https://www.singfinance.com.sg/fixed-deposit-fd-online/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "HLF",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A17",
+        "A23",
+        "A43",
+        "A72",
+        "A104",
+        "A141",
+        "A154"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D32",
+          "url": "https://www.hlf.com.sg/personal/promotions/fixed-deposits-promotion-singapore.php",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A21",
+        "A64",
+        "A102",
+        "A125"
+      ],
+      "layout": "history",
+      "sources": [],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CITI",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A27",
+        "A83",
+        "A145"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D17",
+          "url": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "RHB",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A28",
+        "A62",
+        "A123",
+        "A165"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D57",
+          "url": "https://rhbgroup.com.sg/rhb/personal/promotions/fixed-deposit-campaign?saf_src=google_g&saf_pt=&saf_kw=rhb%20fixed%20deposit&saf_dv=&saf_cam=17369742603&saf_grp=150249554560&saf_ad=737867878761&account_id=9328448803&saf_acc=9328448803&saf_cam_tp=search&gad_source=1&gad_campaignid=17369742603&gbraid=0AAAAAoZjJiJ7QoZr6x8Ha9s86bCeUy4y1&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rgqyTxIQXJiUTOkcTjnR_mCbv7LwJersNuDtDYv1AQ6oLOzcW4h7LxoCkawQAvD_BwE",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "DBS",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A34"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D22",
+          "url": null,
+          "status": "missing_link"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A41",
+        "A86",
+        "A114",
+        "A146",
+        "A168"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D52",
+          "url": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-account",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "TRUST",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A44"
+      ],
+      "layout": "history",
+      "sources": [],
+      "status": "排除",
+      "product_mapping": "不接入"
+    },
+    {
+      "bank": "MARI",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A46",
+        "A92",
+        "A118",
+        "A149"
+      ],
+      "layout": "history",
+      "sources": [],
+      "status": "排除",
+      "product_mapping": "不接入"
+    },
+    {
+      "bank": "HLB",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A47",
+        "A90",
+        "A108",
+        "A122",
+        "A167",
+        "A183"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D27",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/promotions/fixed-deposit-promotion-2026.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "SBI",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A55",
+        "A129"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D72",
+          "url": "https://sg.statebank/sgd-promotions",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "UOB",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A67",
+        "A110"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D77",
+          "url": "https://www.uob.com.sg/personal/save/fixed-deposits/singapore-dollar-fixed-deposit.page",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A71",
+        "A109",
+        "A127",
+        "A156",
+        "A163",
+        "A179"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D47",
+          "url": "https://www.maybank2u.com.sg/en/promotions/deposits/sgd-time-deposit.page",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "POSB",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A91"
+      ],
+      "layout": "history",
+      "sources": [],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "Singapura Finance",
+      "currency": "SGD",
+      "rate_type": "promo",
+      "sheet": "SGD促销",
+      "locations": [
+        "A93",
+        "A117",
+        "A150",
+        "A173"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D81",
+          "url": "https://www.singapurafinance.com.sg/promotions",
+          "status": "registered"
+        }
+      ],
+      "status": "已有流程，来源新鲜度与条款仍须核验",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "ICBC",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B5",
+        "B18",
+        "B47",
+        "B67",
+        "B76"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D40",
+          "url": null,
+          "status": "missing_link"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BOC",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B7",
+        "B16",
+        "B41",
+        "B66",
+        "B80"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D7",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B8",
+        "B17",
+        "B45",
+        "B73"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D13",
+          "url": "https://www.cimb.com.sg/en/personal/banking-with-us/accounts/fixed-deposit/cimb-foreign-currency-fixed-deposit-account.html",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CITI",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B9",
+        "B29",
+        "B52"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D16",
+          "url": "https://www.citibank.com.sg/static/all-promo#tabs-cf92219dfc-item-6a8eaa1eca-tab",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BEA",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B10",
+        "B27",
+        "B56",
+        "B72"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D2",
+          "url": "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "SCB",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B11",
+        "B21",
+        "B36",
+        "B42",
+        "B57",
+        "B63"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D65",
+          "url": "https://www.sc.com/sg/save/time-deposits/foreign-currency-time-deposits/?subChanCode=IB04&cid=sem-GOOGLE-58700007908333096-p71886082989-71700000097118771-na-sg-en&gad_source=1&gad_campaignid=17628603791&gbraid=0AAAAACdMniazu-yuLHnNtFm6HBkWu0UPb&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5I0ywfaj-N9y-iL8PJ57FBNDmtjYjzmT9cmER4QyxkQBJHvokt6oNxoC_JQQAvD_BwE&gclsrc=aw.ds",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B24",
+        "B51",
+        "B74"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D35",
+          "url": "https://www.hsbc.com.sg/accounts/products/foreign-currency-time-deposit/",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "SBI",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B26",
+        "B50",
+        "B79"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D70",
+          "url": "https://sg.statebank/usd-promotions",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "RHB",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B28",
+        "B49",
+        "B78"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D55",
+          "url": "https://rhbgroup.com.sg/rhb/personal/promotions/foreign-currency-fixed-deposit-campaign",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "POSB",
+      "currency": "USD",
+      "rate_type": "promo",
+      "sheet": "USD促销",
+      "locations": [
+        "B46",
+        "B82"
+      ],
+      "layout": "history",
+      "sources": [],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "ICBC",
+      "currency": "CNY",
+      "rate_type": "promo",
+      "sheet": "CNY促销",
+      "locations": [
+        "A5",
+        "A13",
+        "A21",
+        "A29",
+        "A35"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D40",
+          "url": null,
+          "status": "missing_link"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CITI",
+      "currency": "CNY",
+      "rate_type": "promo",
+      "sheet": "CNY促销",
+      "locations": [
+        "A7"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D16",
+          "url": "https://www.citibank.com.sg/static/all-promo#tabs-cf92219dfc-item-6a8eaa1eca-tab",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BEA",
+      "currency": "CNY",
+      "rate_type": "promo",
+      "sheet": "CNY促销",
+      "locations": [
+        "A8",
+        "A15",
+        "A23",
+        "A37"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D2",
+          "url": "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BOC",
+      "currency": "CNY",
+      "rate_type": "promo",
+      "sheet": "CNY促销",
+      "locations": [
+        "A9",
+        "A16",
+        "A24",
+        "A38",
+        "A45",
+        "A51"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D7",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+          "status": "registered"
+        }
+      ],
+      "status": "待接入",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BEA",
+      "currency": "待按区域确认",
+      "rate_type": "promo",
+      "sheet": "其他外币促销利率",
+      "locations": [
+        "B5",
+        "B13",
+        "B21",
+        "B28",
+        "B39",
+        "B46",
+        "B53",
+        "B63",
+        "B70",
+        "B78",
+        "B83",
+        "B94",
+        "B101",
+        "B108"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [
+        {
+          "cell": "D2",
+          "url": "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC",
+          "status": "registered"
+        }
+      ],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BOC",
+      "currency": "待按区域确认",
+      "rate_type": "promo",
+      "sheet": "其他外币促销利率",
+      "locations": [
+        "B6",
+        "B14",
+        "B22",
+        "B29",
+        "B36",
+        "B44",
+        "B51",
+        "B60",
+        "B68",
+        "B76",
+        "B91",
+        "B99",
+        "B106"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [
+        {
+          "cell": "D7",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/",
+          "status": "registered"
+        }
+      ],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "待按区域确认",
+      "rate_type": "promo",
+      "sheet": "其他外币促销利率",
+      "locations": [
+        "B7",
+        "B15",
+        "B23",
+        "B30",
+        "B37",
+        "B45",
+        "B52",
+        "B61",
+        "B69",
+        "B77",
+        "B84",
+        "B92",
+        "B100",
+        "B107"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [
+        {
+          "cell": "D13",
+          "url": "https://www.cimb.com.sg/en/personal/banking-with-us/accounts/fixed-deposit/cimb-foreign-currency-fixed-deposit-account.html",
+          "status": "registered"
+        }
+      ],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CITI",
+      "currency": "待按区域确认",
+      "rate_type": "promo",
+      "sheet": "其他外币促销利率",
+      "locations": [
+        "B8",
+        "B38",
+        "B62",
+        "B93"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [
+        {
+          "cell": "D16",
+          "url": "https://www.citibank.com.sg/static/all-promo#tabs-cf92219dfc-item-6a8eaa1eca-tab",
+          "status": "registered"
+        }
+      ],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "RHB",
+      "currency": "待按区域确认",
+      "rate_type": "promo",
+      "sheet": "其他外币促销利率",
+      "locations": [
+        "B9",
+        "B17",
+        "B24",
+        "B31",
+        "B40",
+        "B47",
+        "B54",
+        "B64",
+        "B72",
+        "B79",
+        "B85",
+        "B95",
+        "B102",
+        "B109"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [
+        {
+          "cell": "D55",
+          "url": "https://rhbgroup.com.sg/rhb/personal/promotions/foreign-currency-fixed-deposit-campaign",
+          "status": "registered"
+        }
+      ],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "待按区域确认",
+      "rate_type": "promo",
+      "sheet": "其他外币促销利率",
+      "locations": [
+        "B16",
+        "B71"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [
+        {
+          "cell": "D35",
+          "url": "https://www.hsbc.com.sg/accounts/products/foreign-currency-time-deposit/",
+          "status": "registered"
+        }
+      ],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CITI",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A3",
+        "A31"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A7",
+        "A25"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "RHB",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A10"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "SCB",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A12",
+        "A28"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A15",
+        "A30"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A18"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "UOB",
+      "currency": "待按区域确认",
+      "rate_type": "待分类",
+      "sheet": "Premier Rates",
+      "locations": [
+        "A20"
+      ],
+      "layout": "matrix_or_section",
+      "sources": [],
+      "status": "待按区域确认",
+      "product_mapping": "待按产品/客群/金额确认"
+    },
+    {
+      "bank": "BEA",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D5",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-sgd-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 56 / 明细 56；当前数值 56 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H2"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 15 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I2"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 12 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 18 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 18 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 18 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 18 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 18 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BEA",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O2"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D3",
+          "url": "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 18 / 明细 18；当前数值 18 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D10",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 96 / 明细 96；当前数值 48 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H3"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 35 / 明细 35；当前数值 21 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I3"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 21 / 明细 21；当前数值 15 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 12 / 明细 12；当前数值 12 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 15 / 明细 15；当前数值 15 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 12 / 明细 12；当前数值 12 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 9 / 明细 9；当前数值 9 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 12 / 明细 12；当前数值 12 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "BOC",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O3"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D8",
+          "url": "https://www.bankofchina.com/sg/cn/bocinfo/bi3/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 15 / 明细 15；当前数值 15 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G4"
+      ],
+      "layout": "matrix",
+      "sources": [],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H4"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I4"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 15 / 明细 15；当前数值 15 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J4"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K4"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L4"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N4"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CIMB",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O4"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D12",
+          "url": "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "CITI",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G5"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D18",
+          "url": "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account#tabs-5847e28654-item-eac3d14f73-tab",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 49；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D23",
+          "url": "https://www.dbs.com.sg/personal/rates-online/fixed-deposit-rate-singapore-dollar.page",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 84 / 明细 84；当前数值 84 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H6"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "DBS/POSB",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O6"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D21",
+          "url": "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        },
+        {
+          "cell": "D84",
+          "url": "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G7"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D28",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/help-support/fixed-deposit-rate.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 8 / 明细 8；当前数值 8 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H7"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D26",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 4 / 明细 4；当前数值 4 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I7"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D26",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 4 / 明细 4；当前数值 4 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J7"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D26",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 4 / 明细 4；当前数值 4 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K7"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D26",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 4 / 明细 4；当前数值 4 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M7"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D26",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 4；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLB",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O7"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D26",
+          "url": "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 4 / 明细 4；当前数值 4 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HLF",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G8"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D33",
+          "url": "https://www.hlf.com.sg/personal/deposits/fixed-deposits-singapore.php",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 38；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G9"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D38",
+          "url": "https://www.hsbc.com.sg/rates/singapore-dollar-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 60 / 明细 60；当前数值 60 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H9"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D36",
+          "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 48 / 明细 48；当前数值 48 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J9"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D36",
+          "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 48；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K9"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D36",
+          "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 48；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L9"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D36",
+          "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 48 / 明细 48；当前数值 48 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M9"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D36",
+          "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 32；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "HSBC",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O9"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D36",
+          "url": "https://www.hsbc.com.sg/rates/foreign-currency-time-deposits/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 48 / 明细 48；当前数值 48 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "ICBC",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G10"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D43",
+          "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 15；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "ICBC",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H10"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D41",
+          "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "ICBC",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I10"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D41",
+          "url": "https://singapore.icbc.com.cn/en/page/721852523895095311.html",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G11"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D48",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 36 / 明细 36；当前数值 36 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H11"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D46",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 12 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J11"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D46",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K11"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D46",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L11"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D46",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 12 / 明细 12；当前数值 12 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N11"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D46",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Maybank",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O11"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D46",
+          "url": "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 16 / 明细 16；当前数值 16 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D53",
+          "url": "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-sgd-interest-rates.page",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 122；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H12"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "OCBC",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O12"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D51",
+          "url": "https://www.ocbc.com/personal-banking/deposits/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D58",
+          "url": null,
+          "status": "missing_link"
+        }
+      ],
+      "status": "部分可用；可插表 14 / 明细 18；当前数值 14 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H13"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I13"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "RHB",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O13"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D56",
+          "url": "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SBI",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G14"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D73",
+          "url": "https://sg.statebank/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 8 / 明细 8；当前数值 8 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SBI",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H14"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D71",
+          "url": "https://sg.statebank/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 7 / 明细 7；当前数值 6 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SBI",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J14"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D71",
+          "url": "https://sg.statebank/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SBI",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O14"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D71",
+          "url": "https://sg.statebank/interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D68",
+          "url": "https://www.sc.com/sg/help/faqs/sgd-time-deposit-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "全部被拦；可插表 0 / 明细 55；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H15"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 42 / 明细 42；当前数值 30 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 42 / 明细 42；当前数值 36 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 42 / 明细 42；当前数值 36 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 35 / 明细 35；当前数值 30 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 35 / 明细 35；当前数值 30 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "EUR",
+      "rate_type": "board",
+      "sheet": "EUR挂牌",
+      "locations": [
+        "Bank List!N15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 42 / 明细 42；当前数值 36 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SCB",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O15"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D66",
+          "url": "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 42 / 明细 42；当前数值 36 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "SingFinance",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G16"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D63",
+          "url": "https://www.singfinance.com.sg/rates/",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 20 / 明细 20；当前数值 14 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "Singapura Finance",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G17"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D82",
+          "url": "https://www.singapurafinance.com.sg/personal/accounts/blue-sky-fixed-deposit#interest-rates",
+          "status": "registered"
+        }
+      ],
+      "status": "已有可用数据；可插表 32 / 明细 32；当前数值 28 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "SGD",
+      "rate_type": "board",
+      "sheet": "SGD挂牌",
+      "locations": [
+        "Bank List!G18"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D78",
+          "url": "https://www.uob.com.sg/personal/online-rates/singapore-dollar-time-fixed-deposit-rates.page",
+          "status": "registered"
+        }
+      ],
+      "status": "部分可用；可插表 54 / 明细 72；当前数值 45 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "USD",
+      "rate_type": "board",
+      "sheet": "USD挂牌",
+      "locations": [
+        "Bank List!H18"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "CNY",
+      "rate_type": "board",
+      "sheet": "CNY挂牌",
+      "locations": [
+        "Bank List!I18"
+      ],
+      "layout": "history",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "AUD",
+      "rate_type": "board",
+      "sheet": "AUD挂牌",
+      "locations": [
+        "Bank List!J18"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "NZD",
+      "rate_type": "board",
+      "sheet": "NZD挂牌",
+      "locations": [
+        "Bank List!K18"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "CAD",
+      "rate_type": "board",
+      "sheet": "CAD挂牌",
+      "locations": [
+        "Bank List!L18"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "HKD",
+      "rate_type": "board",
+      "sheet": "HKD挂牌",
+      "locations": [
+        "Bank List!M18"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    },
+    {
+      "bank": "UOB",
+      "currency": "GBP",
+      "rate_type": "board",
+      "sheet": "GBP挂牌",
+      "locations": [
+        "Bank List!O18"
+      ],
+      "layout": "matrix",
+      "sources": [
+        {
+          "cell": "D76",
+          "url": "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page",
+          "status": "registered"
+        }
+      ],
+      "status": "未接入；可插表 0 / 明细 0；当前数值 0 格",
+      "product_mapping": "存在数据不等于所有档位完整"
+    }
+  ],
+  "board_coverage": {
+    "required_count": 99,
+    "pairs_with_numeric_output": 56,
+    "missing_or_fully_held": 43
+  },
+  "dependent_sheets": [
+    "最高报价汇总 ",
+    "Premier Rates"
+  ],
+  "rainbow_sheets": [
+    "SGD Promotional Rate",
+    "SGD Board Rate",
+    "USD Rate + Other Currency Rates"
+  ],
+  "policy": {
+    "confirmed_on": "2026-09-27",
+    "excluded_banks": [
+      "MARI",
+      "TRUST"
+    ],
+    "excluded_currencies": [
+      "JPY"
+    ],
+    "presentation_currency_map": {
+      "CNH": "CNY"
+    },
+    "currency_policy_note": "用户2026-09-27确认：CNH直接作为CNY使用，保留原始币种证据；JPY不再采集。",
+    "deferred_product_ids": [
+      "cimb-wwfd-online",
+      "cimb-preferred-welcome",
+      "hlf-digital-promo",
+      "boc-sgd-welcome"
+    ],
+    "new_product_layout": "within_existing_bank",
+    "deferred_actual_tenors": [
+      "BOC/boc-sgd-mobile/2M",
+      "BOC/boc-sgd-mobile/5M",
+      "CITI/citi-gold-investment-bundle/2M",
+      "CITI/citi-private-investment-bundle/2M"
+    ],
+    "delta": "latest_date_minus_previous_date",
+    "note": "暂不把这些新增独立产品写入调研、汇总、彩虹表或 Excel 输入明细；采集证据保留。以后新增产品扩展原银行合并区，不重复建立银行区块。"
+  },
+  "note": "来源登记与模板覆盖清单，不代表实时采集或人工已确认"
+}

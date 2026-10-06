@@ -1,0 +1,738 @@
+[
+  {
+    "id": "e058448c955e",
+    "bank": "BEA",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "www.hkbea.com.sg"
+    ],
+    "urls": [
+      "https://www.hkbea.com.sg/sg-form/?formId=RATE&rateType=fcfdr#/forms/MISC"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "1b81fea1077c",
+    "bank": "BEA",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.hkbea.com.sg"
+    ],
+    "urls": [
+      "https://www.hkbea.com.sg/html/en/beasg-rates-foreign-currency-fixed-deposit-rates.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "0f12302b5704",
+    "bank": "BEA",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.hkbea.com.sg"
+    ],
+    "urls": [
+      "https://www.hkbea.com.sg/html/en/index.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "9ef36c3dff04",
+    "bank": "BEA",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.hkbea.com.sg"
+    ],
+    "urls": [
+      "https://www.hkbea.com.sg/html/en/beasg-rates-sgd-fixed-deposit-rates.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "dd7122a72b12",
+    "bank": "BOC",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "www.bankofchina.com"
+    ],
+    "urls": [
+      "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "2d3f093966d1",
+    "bank": "BOC",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.bankofchina.com"
+    ],
+    "urls": [
+      "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi32/202505/t20250519_25354209.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "8ff311f49bf9",
+    "bank": "BOC",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.bankofchina.com"
+    ],
+    "urls": [
+      "https://www.bankofchina.com/sg/cn/bocinfo/bi3/bi31/202511/t20251110_25563022.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "a078d1b42cac",
+    "bank": "CIMB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.cimb.com.sg"
+    ],
+    "urls": [
+      "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "21c864b6cf64",
+    "bank": "CIMB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "www.cimb.com.sg"
+    ],
+    "urls": [
+      "https://www.cimb.com.sg/en/personal/banking-with-us/accounts/fixed-deposit/cimb-foreign-currency-fixed-deposit-account.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "3c955c1d9e94",
+    "bank": "CIMB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "unknown",
+    "domains": [
+      "www.cimb.com.sg"
+    ],
+    "urls": [
+      "https://www.cimb.com.sg/en/personal/help-support/rates-charges/rates/sgd-fixed-deposit-rates.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "499158f65e49",
+    "bank": "CITI",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "www.citibank.com.sg"
+    ],
+    "urls": [
+      "https://www.citibank.com.sg/static/all-promo#tabs-cf92219dfc-item-6a8eaa1eca-tab"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "1c2269642910",
+    "bank": "CITI",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.citibank.com.sg"
+    ],
+    "urls": [
+      "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "3cf4e479c1a9",
+    "bank": "CITI",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.citibank.com.sg"
+    ],
+    "urls": [
+      "https://www.citibank.com.sg/personal-banking/deposits/fixed-deposit-account#tabs-5847e28654-item-eac3d14f73-tab"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "27bb269a6736",
+    "bank": "DBS",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.dbs.com.sg"
+    ],
+    "urls": [
+      "https://www.dbs.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "7e7b68cb64a3",
+    "bank": "DBS",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.dbs.com.sg"
+    ],
+    "urls": [
+      "https://www.dbs.com.sg/personal/rates-online/fixed-deposit-rate-singapore-dollar.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "3a3faae3f6b3",
+    "bank": "HLB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.hlbank.com.sg"
+    ],
+    "urls": [
+      "https://www.hlbank.com.sg/en/personal-banking/deposits/fixed-deposit-account/foreign-currency-fd.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "692d8357c415",
+    "bank": "HLB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.hlbank.com.sg"
+    ],
+    "urls": [
+      "https://www.hlbank.com.sg/en/personal-banking/promotions/fixed-deposit-promotion-2026.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "7820da0b89f8",
+    "bank": "HLB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.hlbank.com.sg"
+    ],
+    "urls": [
+      "https://www.hlbank.com.sg/en/personal-banking/help-support/fixed-deposit-rate.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "15caa6604f43",
+    "bank": "HLF",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.hlf.com.sg"
+    ],
+    "urls": [
+      "https://www.hlf.com.sg/personal/promotions/fixed-deposits-promotion-singapore.php"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "ed037a43c26f",
+    "bank": "HLF",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.hlf.com.sg"
+    ],
+    "urls": [
+      "https://www.hlf.com.sg/personal/deposits/fixed-deposits-singapore.php"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "13bd7a8d905f",
+    "bank": "HSBC",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "www.hsbc.com.sg"
+    ],
+    "urls": [
+      "https://www.hsbc.com.sg/accounts/products/foreign-currency-time-deposit/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "4e2311728218",
+    "bank": "HSBC",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.hsbc.com.sg"
+    ],
+    "urls": [
+      "https://www.hsbc.com.sg/accounts/products/time-deposit/?promo=PSR1502649&cid=SGH:JC:P1:HP:01:2001:1502649:Acq_HP_PSR_Google&hidden_type=PSR1502649&gad_source=1&gad_campaignid=22078423845&gbraid=0AAAAADxLzrUn_-ljIVd7oUPe4ykK4xkLM&gclid=CjwKCAjw87XBBhBIEiwAxP3_A4c0tmLW3KLhl3LWPKwx_DleT8rvngBgT846jXEhpf1QRYxvbH7bSBoC2BIQAvD_BwE&gclsrc=aw.ds"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "80e32d2001a9",
+    "bank": "HSBC",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.hsbc.com.sg"
+    ],
+    "urls": [
+      "https://www.hsbc.com.sg/rates/singapore-dollar-deposits/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "7a9774cd4027",
+    "bank": "ICBC",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "singapore.icbc.com.cn"
+    ],
+    "urls": [
+      "https://singapore.icbc.com.cn/en/page/721852523895095311.html"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "0061aaedff85",
+    "bank": "maybank",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "sslsecure.maybank.com.sg"
+    ],
+    "urls": [
+      "https://sslsecure.maybank.com.sg/cgi-bin/mbs/JSPscripts/mbb_rates/deposit_rate.jsp"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "7c1275e02ac2",
+    "bank": "OCBC",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.ocbc.com"
+    ],
+    "urls": [
+      "https://www.ocbc.com/personal-banking/deposits/interest-rates"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "40eae5d1665b",
+    "bank": "OCBC",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.ocbc.com"
+    ],
+    "urls": [
+      "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-account"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "0e887744f995",
+    "bank": "OCBC",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.ocbc.com"
+    ],
+    "urls": [
+      "https://www.ocbc.com/personal-banking/deposits/fixed-deposit-sgd-interest-rates.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "a84d7731ea43",
+    "bank": "RHB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "rhbgroup.com.sg"
+    ],
+    "urls": [
+      "https://rhbgroup.com.sg/rhb/personal/promotions/foreign-currency-fixed-deposit-campaign"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "1a9d4bfdcdb7",
+    "bank": "RHB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.rhbgroup.com.sg"
+    ],
+    "urls": [
+      "https://www.rhbgroup.com.sg/dam/jcr:98394f8b-4141-4685-bfdc-494135e614f3/Depositrates.pdf"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "4b58d468f4fa",
+    "bank": "RHB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "rhbgroup.com.sg"
+    ],
+    "urls": [
+      "https://rhbgroup.com.sg/rhb/personal/promotions/fixed-deposit-campaign?saf_src=google_g&saf_pt=&saf_kw=rhb%20fixed%20deposit&saf_dv=&saf_cam=17369742603&saf_grp=150249554560&saf_ad=737867878761&account_id=9328448803&saf_acc=9328448803&saf_cam_tp=search&gad_source=1&gad_campaignid=17369742603&gbraid=0AAAAAoZjJiJ7QoZr6x8Ha9s86bCeUy4y1&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rgqyTxIQXJiUTOkcTjnR_mCbv7LwJersNuDtDYv1AQ6oLOzcW4h7LxoCkawQAvD_BwE"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "504450b8a0e4",
+    "bank": "SingFinance",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.singfinance.com.sg"
+    ],
+    "urls": [
+      "https://www.singfinance.com.sg/fixed-deposit-fd-online/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "35194e731523",
+    "bank": "SingFinance",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.singfinance.com.sg"
+    ],
+    "urls": [
+      "https://www.singfinance.com.sg/rates/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "f8f10f6dfb28",
+    "bank": "SCB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "www.sc.com"
+    ],
+    "urls": [
+      "https://www.sc.com/sg/save/time-deposits/foreign-currency-time-deposits/?subChanCode=IB04&cid=sem-GOOGLE-58700007908333096-p71886082989-71700000097118771-na-sg-en&gad_source=1&gad_campaignid=17628603791&gbraid=0AAAAACdMniazu-yuLHnNtFm6HBkWu0UPb&gclid=CjwKCAjw3f_BBhAPEiwAaA3K5I0ywfaj-N9y-iL8PJ57FBNDmtjYjzmT9cmER4QyxkQBJHvokt6oNxoC_JQQAvD_BwE&gclsrc=aw.ds"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "079e1198ccc1",
+    "bank": "SCB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.sc.com"
+    ],
+    "urls": [
+      "https://www.sc.com/sg/help/faqs/foreign-currency-interest-rates/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "eabd09606376",
+    "bank": "SCB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.sc.com"
+    ],
+    "urls": [
+      "https://www.sc.com/sg/save/time-deposits/singapore-dollar-time-deposit/?subChanCode=IB04&cid=sem-GOOGLE-58700007909227731-p76519190772-71700000097343073-na-sg-en&gad_source=1&gad_campaignid=17628603788&gbraid=0AAAAACdMniajDMZDF91aN96qXKvec8dLQ&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rnjNTbslC-5bQROZgneNgErwV4dKP41ONASFNZY44l3df8VoeGdJcBoCu3AQAvD_BwE&gclsrc=aw.ds"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "e483a6713f15",
+    "bank": "SCB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.sc.com"
+    ],
+    "urls": [
+      "https://www.sc.com/sg/help/faqs/sgd-time-deposit-interest-rates/"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "78f1a61b5efa",
+    "bank": "SBI",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "促销",
+    "domains": [
+      "sg.statebank"
+    ],
+    "urls": [
+      "https://sg.statebank/usd-promotions"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "7125cd11ba6d",
+    "bank": "SBI",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "sg.statebank"
+    ],
+    "urls": [
+      "https://sg.statebank/interest-rates"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "f5647a3b66cc",
+    "bank": "SBI",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "sg.statebank"
+    ],
+    "urls": [
+      "https://sg.statebank/sgd-promotions"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "bbcaa83952ca",
+    "bank": "UOB",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.uobgroup.com"
+    ],
+    "urls": [
+      "https://www.uobgroup.com/online-rates/foreign-currency-fixed-deposits.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "896cc2d200a4",
+    "bank": "UOB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.uob.com.sg"
+    ],
+    "urls": [
+      "https://www.uob.com.sg/personal/save/fixed-deposits/singapore-dollar-fixed-deposit.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "65ebd672efbe",
+    "bank": "UOB",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.uob.com.sg"
+    ],
+    "urls": [
+      "https://www.uob.com.sg/personal/online-rates/singapore-dollar-time-fixed-deposit-rates.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "633c230dca96",
+    "bank": "Singapura Finance",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "促销",
+    "domains": [
+      "www.singapurafinance.com.sg"
+    ],
+    "urls": [
+      "https://www.singapurafinance.com.sg/promotions"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "9c18e5116588",
+    "bank": "Singapura Finance",
+    "enabled": false,
+    "currency_hint": "SGD",
+    "category_hint": "挂牌",
+    "domains": [
+      "www.singapurafinance.com.sg"
+    ],
+    "urls": [
+      "https://www.singapurafinance.com.sg/personal/accounts/blue-sky-fixed-deposit#interest-rates"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  },
+  {
+    "id": "5aa7979a956a",
+    "bank": "posb",
+    "enabled": false,
+    "currency_hint": "others",
+    "category_hint": "board",
+    "domains": [
+      "www.posb.com.sg"
+    ],
+    "urls": [
+      "https://www.posb.com.sg/personal/rates-online/foreign-currency-fixed-deposits.page"
+    ],
+    "max_pages": 8,
+    "max_depth": 1,
+    "expand_selectors": []
+  }
+]

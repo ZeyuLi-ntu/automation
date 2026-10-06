@@ -1,0 +1,132 @@
+{
+  "scope": "16 banks with quotations, including imported Maybank official text/user image; DBS/POSB public status; MARI/TRUST excluded",
+  "sources": [
+    {
+      "path": "runs/scb-literal-20260925-e",
+      "hashes": {
+        "run.json": "cdcd37ba0df8b8fe7e6139cd08d2c6d42009360e6945438f0b53454287337f52",
+        "result.json": "d09a39e642c6236441fc38ccbddb15970efcc087ab3e7f33c84c235705b2ea5f",
+        "benchmark.json": "e19c1624727b31324af8b41e56cdc31887e91766f4ee5d0c40ace3e3412b5be2"
+      }
+    },
+    {
+      "path": "runs/three-bank-20260925-v2",
+      "hashes": {
+        "run.json": "37f9b81c68aa1e12493005b820faeea3a898e70d100ed5e13ac0051ebb5a4b2d",
+        "result.json": "db4795ff9f8d836661b11c399f544187eab1aeb34cd57aeb5f5c2a48848b3eca",
+        "benchmark.json": "05ba89ecb09ba59e2742da911dba5a2bd2948ee6e5501792c07ad0b7d7ce6f4f"
+      }
+    },
+    {
+      "path": "runs/next-bank-20260926-v8",
+      "hashes": {
+        "run.json": "413fef79eb6ba2ef182cef87d8ae3812ceff70ae0a7fa1f319a27aa6235eb89b",
+        "result.json": "8b180e08c603feaec4328d89355895370603e4ccc61e6401c7b7bc74f40c1291",
+        "benchmark.json": "962896fdf1fe35dedc6dff4a1f10ffd017572e743f91ddbf354a1384fb08f315"
+      }
+    },
+    {
+      "path": "runs/expansion-bank-20260926-v5",
+      "hashes": {
+        "run.json": "4554ab0c88f35e516bc95f3e683a008cdd5151bb3bb7326fa6ebd43fbd0a8924",
+        "result.json": "6040ef7a50090a8456060711352f6bd8af430952ed1531a7bd028d36c0015227",
+        "benchmark.json": "5f1ef79cc87f57a2419daa771a136437553b59abe762d4624021bac0542706cd"
+      }
+    },
+    {
+      "path": "runs/remaining-BEA-20260927-v2",
+      "remaining_bank_batch": true,
+      "hashes": {
+        "run.json": "18d98469ccc3edf743967956cbb2213063afeb3085e9183d2da22c0f324a2363",
+        "result.json": "3281f8b039b9b25ff0836a2c565dc92338439e9910af39018d7bf0b619d17d30",
+        "benchmark.json": "24d5c53a07511bf71a3cd735a4f061a5f759335bff27124e5a08d26655d3add4"
+      }
+    },
+    {
+      "path": "runs/remaining-HSBC-20260927-v2",
+      "remaining_bank_batch": true,
+      "hashes": {
+        "run.json": "6af1ae98193cf7e33d15c611e98c10a3be21afc631df501da3d01ee0b28e5102",
+        "result.json": "047883ff4ca4f2b8e8e8826f2768e2faa281dcdc9e286defea2baa9436c58756",
+        "benchmark.json": "9a0f02e1ec8c8239c4dbd827aa721deb556db3863e57f720b9992f82d9a16de0"
+      }
+    },
+    {
+      "path": "runs/remaining-SingFinance-20260927-v3",
+      "remaining_bank_batch": true,
+      "hashes": {
+        "run.json": "c8878ed6a250751e0c1493253652b11dde54254f2ca54360209402e96d02d00a",
+        "result.json": "abe81004b9ba395a40923f0610e47908db1f4e92415fe0bea73ac6faefcc70b7",
+        "benchmark.json": "371933640e6dd7b79227cac0aaf3f041e32f6592e16ae0a5dcd3324d4451e8f5"
+      }
+    },
+    {
+      "path": "runs/remaining-Singapura-Finance-20260927-v3",
+      "remaining_bank_batch": true,
+      "hashes": {
+        "run.json": "a7527b6f7dfbab352ea43ff1798f952663ca22293cece8ac946887120d60eb83",
+        "result.json": "85c869afb983be36e69451dae597d38e08699b0fd77f673f81fda1266847d29e",
+        "benchmark.json": "8575fc0514e923265ee95e11ff0cf29ecd4a5e5ee5f88dcf2f10bb91c09b517e"
+      }
+    },
+    {
+      "path": "runs/remaining-CITI-20260927-v6",
+      "remaining_bank_batch": true,
+      "hashes": {
+        "run.json": "09b334421a872cc11790a013666929aac9c005cabc723553da6e0c51476d12ed",
+        "result.json": "941c2426acad5771e88ced3bd8e5c1b6e9b62f608523d135951ae46aea0bad49",
+        "benchmark.json": "2c330295fe64abbc1943351a239158aeb7fd61c9e6fa0a74c97516b8a75f57f8"
+      }
+    },
+    {
+      "path": "runs/maybank-bundle-import-20260927",
+      "maybank_bundle_import": true,
+      "hashes": {
+        "run.json": "20cc4b82ff15ad68792d2f4d8805ece084bca17d2cf1bbd7eb1c1356ca7be781",
+        "result.json": "9ec8e9b5958e7ad535540818eb861570571c2a089036a443771379ecffc3bb81",
+        "benchmark.json": "1248b91ec58dd3b02959c85e988ee1eb44269a0dd7d71b31b704ee6411509d08"
+      }
+    }
+  ],
+  "templates": [
+    {
+      "path": "../20260916市场利率调研.xlsx",
+      "sha256": "a96c560293504af1b270f1eea74ce60a43d2654d010e363c79d5eee22f5d4f35"
+    },
+    {
+      "path": "../彩虹表_按MarketRateData更新_20260916_17.59.xlsx",
+      "sha256": "b93c10e6e577d51312523b415e499bf4ebdce139372e5631afc9334f60a65e6c"
+    },
+    {
+      "path": "runs/three-bank-20260925/template-inspection.json",
+      "sha256": "d78bc70b530402a54aedc560a5d89954ac225444c1cbd6211772815b6bf13d52"
+    }
+  ],
+  "public_status_path": "runs/public-status-20260927",
+  "coverage": [
+    {
+      "bank": "DBS",
+      "numeric_insertion": false,
+      "status": "no_verified_public_quote",
+      "reason": "本次公开页面未取得 SGD 定存促销报价；外币促销和 SGD 挂牌未混入。",
+      "checked_at": "2026-09-27T11:13:51.161834+00:00",
+      "urls": [
+        "https://www.dbs.com.sg/personal/deposits/fixed-deposits/fixed-deposit"
+      ],
+      "evidence": "D:\\automation\\market_rate_project\\runs\\public-status-20260927\\evidence\\index.html",
+      "status_sha256": "60a79b0d7758474d95f5ba32ff648fe2246f1f097053227cc569ba1eb921b9f6"
+    },
+    {
+      "bank": "POSB",
+      "numeric_insertion": false,
+      "status": "no_verified_public_quote",
+      "reason": "公开来源为挂牌利率页；本次未取得 SGD 定存促销报价。",
+      "checked_at": "2026-09-27T11:13:51.161834+00:00",
+      "urls": [
+        "https://www.posb.com.sg/personal/rates-online/default.page"
+      ],
+      "evidence": "D:\\automation\\market_rate_project\\runs\\public-status-20260927\\evidence\\index.html",
+      "status_sha256": "60a79b0d7758474d95f5ba32ff648fe2246f1f097053227cc569ba1eb921b9f6"
+    }
+  ]
+}

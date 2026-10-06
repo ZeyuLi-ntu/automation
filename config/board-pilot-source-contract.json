@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "human_reviewed": true,
+  "basis": "用户已确认试点无其他问题并确认SBI USD单位为%；原始提取单位unknown保留，人工覆盖记录在data/board-pilot-acceptance.json及manual-review.json",
+  "evidence_run": "runs/board-pilot-20260927-a",
+  "tables": [
+    {"bank":"HLB","currency":"SGD","effective":"2026-09-25","basis":"annual_nominal","rates":{"1":"0.1","3":"0.2","6":"0.3","12":"0.4"},"tiers":[{"min":"10000","max":null,"channel":"online"},{"min":"100000","max":null,"channel":"branch"}],"raw_rows":4},
+    {"bank":"HLB","currency":"USD","effective":"2026-09-25","basis":"annual_nominal","rates":{"1":"3.1855","3":"3.4066","6":"3.5097","12":"3.7085"},"tiers":[{"min":"50000","max":null,"channel":"unknown"}],"raw_rows":4},
+    {"bank":"SBI","currency":"SGD","effective":"2025-10-01","basis":"annual_nominal","rates":{"1":"0.35","2":"0.5","3":"0.7","6":"0.8","9":"0.8","12":"0.7","18":"0.25","24":"0.25"},"tiers":[{"min":"5000","max":"1000000","channel":"unknown"}],"raw_rows":10},
+    {"bank":"SBI","currency":"USD","effective":"2025-12-23","basis":"unknown","rates":{"1":"2.75","2":"2.75","3":"3.25","6":"3.25","12":"3","18":"1","24":"0.5"},"tiers":[{"min":"5000","max":"1000000","channel":"unknown"}],"raw_rows":8}
+  ]
+}

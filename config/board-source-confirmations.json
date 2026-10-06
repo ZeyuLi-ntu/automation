@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "rules": [
+    {"bank": "SCB", "scope": "FX", "host": "www.sc.com", "path": "/sg/help/faqs/foreign-currency-interest-rates/", "rate_basis": "annual_nominal", "unit": "percent", "confirmed_on": "2026-09-28", "confirmed_by": "user", "confirmation": "确认这两家按百分数年利率使用"},
+    {"bank": "CIMB", "scope": "FX", "host": "www.cimb.com.sg", "path": "/en/personal/help-support/rates-charges/rates/foreign-currency-fixed-deposit-rates.html", "rate_basis": "annual_nominal", "unit": "percent", "confirmed_on": "2026-09-28", "confirmed_by": "user", "confirmation": "确认这两家按百分数年利率使用"}
+  ]
+}
